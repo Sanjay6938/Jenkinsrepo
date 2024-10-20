@@ -8,6 +8,7 @@ echo"New txt"
 echo"testing new"
 =======
 echo"testing new"
+which cal
 =======
 >>>>>>> 16e631bf7cfd55d065c4c4450b51da95e7a3870e
 =======
